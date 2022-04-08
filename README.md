@@ -1,0 +1,1 @@
+I became interested in programming during my first year of high school. From that moment my fascination has changed into a passion. I understood that the most important part of programming is knowledge of algorithms. My solution can be even correct but it should be also the most effective. I love solving puzzles and seeking optimizations in every line of code.
